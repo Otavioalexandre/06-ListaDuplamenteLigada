@@ -1,4 +1,7 @@
-# Lista Duplamente Ligada 
+# Lista Duplamente Ligada
+# Dados Alunos
+* email: otavio.ferreira01@fatec.sp.gov.br
+* nome: Otávio Alexandre 
 ---
 
 ## Objetivos
